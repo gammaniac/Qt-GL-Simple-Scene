@@ -1,7 +1,7 @@
 #ifndef MAINVIEW_H
 #define MAINVIEW_H
 
-#include <GL3/gl3w.h>
+#include <GL/gl3w.h>
 #include <QGLWidget>
 #include <QTimer>
 
